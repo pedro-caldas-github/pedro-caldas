@@ -1,5 +1,76 @@
 # Pedro Caldas
 **Senior Data Analyst | AI & Automation Engineer**
+
+[English Version](#english-version) | [Versão em Português](#versao-em-portugues)
+
+---
+
+<a name="english-version"></a>
+## English Version
+
+# Pedro Caldas
+**Senior Data Analyst | AI & Automation Engineer**
+Recife, Brazil (Available for Global Remote) | [LinkedIn](https://www.linkedin.com/in/jose-pedro-caldas-da-silva/) | [GitHub](https://github.com/pedro-caldas-github)
+Email: josepedro.caldas@gmail.com | Phone: +55 (81) 99285-2344
+
+## PROFESSIONAL SUMMARY
+
+Data Analyst with 6+ years of experience specializing in the **Google Cloud Ecosystem (BigQuery, Dataform, Looker Studio)**. Expert in workflow automation (Apps Script, n8n) and data engineering pipelines. Currently focusing on **Generative AI** implementation, including **RAG architectures (Pinecone)** and autonomous agents to streamline operations and drive strategic ROI.
+
+---
+
+## WORK EXPERIENCE
+
+### IFC Roofing & Construction
+*Data Analyst | Feb 2025 – Oct 2025*
+
+* **Data Automation:** Developed ingestion pipelines via Apps Script (JavaScript), eliminating 100% of weekly manual efforts for financial reporting.
+* **Business Intelligence:** Built strategic real-time dashboards in Looker Studio for sales and operational KPI monitoring.
+
+### POLEN - Waste Valuation Solutions
+*Data Analyst / Analytics Engineer | Oct 2021 – Feb 2025*
+
+* **Architecture & ROI:** Designed a sales ledger in BigQuery, consolidating costs and revenue, resulting in a **20% purchase price saving** through predictive insights.
+* **Data Engineering & Governance:** Spearheaded the transition to Dataform (GCP), establishing code versioning, data governance, and a "Single Source of Truth" technical dictionary.
+* **Workflow Optimization:** Built ETL integrations between CRM and internal systems, ensuring 100% lead activity through custom automated pipelines.
+
+### Home Center Ferreira Costa
+*Commercial Administrative Assistant | Jun 2018 – Jan 2021*
+
+* **Data Insights:** Delivered sales performance reports using SQL, Power BI, and Excel.
+* **SEO & E-commerce:** Optimized organic conversion rates by leveraging market data for e-commerce catalog improvements.
+
+---
+
+## AI & AUTOMATION PROJECTS
+
+* **RAG System (Tesla Data):** Engineered a semantic search application over Tesla's public financial records using Python, Pinecone (Vector DB), and OpenAI Embeddings.
+* **Operations AI Agents:** Built autonomous agents via n8n integrating Slack, Google Drive, and Gmail for complex administrative task automation.
+
+---
+
+## EDUCATION
+
+* **B.S. in Software Development** – BYU-Idaho (USA) | In Progress
+* **MBA in Investment Management** – Estácio de Sá University
+* **B.S. in Economics** – UFRPE
+
+---
+
+## TECHNICAL SKILLS
+
+* **Data:** SQL (Advanced), Python, BigQuery, Dataform, Looker Studio, Power BI, ETL, Data Engineering.
+* **AI & Automation:** n8n, RAG, LangChain, Pinecone, Vector Databases, AI Agents, Apps Script.
+* **Infrastructure:** GCP, AWS, Docker, Apache Airflow.
+* **Languages:** English (Fluent), Spanish (Fluent), Portuguese (Native).
+
+---
+
+<a name="versao-em-portugues"></a>
+## Versão em Português
+
+# Pedro Caldas
+**Senior Data Analyst | AI & Automation Engineer**
 Recife, PE | [LinkedIn](https://www.linkedin.com/in/jose-pedro-caldas-da-silva/) | [GitHub](https://github.com/pedro-caldas-github)
 Email: josepedro.caldas@gmail.com | Telefone: +55 (81) 99285-2344
 
