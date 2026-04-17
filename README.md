@@ -1,6 +1,3 @@
-# Pedro Caldas
-**Senior Data Analyst | AI & Automation Engineer**
-
 [English Version](#english-version) | [Versão em Português](#versao-em-portugues)
 
 ---
